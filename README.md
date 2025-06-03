@@ -1,6 +1,6 @@
 # DofE Newsletter generator
 
-Because the SU generator is a pain in the ass
+This weekly email generator was built by several aspiring engineers (although not software) to help facilitate writing weekly emails, because writing it directly in the SU website is a pain. 
 
 ## Usage
 
